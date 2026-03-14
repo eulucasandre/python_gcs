@@ -159,5 +159,3 @@ Durante a revisão do código original, foram identificados e corrigidos os segu
 - **olist_dataset.orders** — dataset de pedidos do e-commerce brasileiro [Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce), disponível publicamente no BigQuery
 
 ---
-
-*Projeto desenvolvido durante o curso de Fundamentos de Nuvem — Alura* ☁️
